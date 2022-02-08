@@ -1,0 +1,122 @@
+[
+  {
+    "team_id": "altinordu",
+    "datacount": 1,
+    "gene_info": {      
+      "actn3": "AA",
+      "ace": "AA",
+      "ppara": "AA",
+      "ppargc1a": "AA",
+      "nos3": "AA",
+      "hif1a": "AA",
+      "adrb2": "AA",
+      "bdkrb2": "AA",
+      "mct1": "AA",
+      "col1a1": "AA",
+      "col5a1": "AA",
+      "il6": "AA",
+      "bdnf": "AA",
+      "comt": "AA"
+    }
+  },
+  {
+    "team_id": "altinordu",
+    "datacount": 2,
+    "gene_info": {      
+      "actn3": "AA",
+      "ace": "AA",
+      "ppara": "AA",
+      "ppargc1a": "AA",
+      "nos3": "AA",
+      "hif1a": "AA",
+      "adrb2": "AA",
+      "bdkrb2": "AA",
+      "mct1": "AA",
+      "col1a1": "AA",
+      "col5a1": "AA",
+      "il6": "AA",
+      "bdnf": "AA",
+      "comt": "AA"
+    }
+  },
+  {
+    "team_id": "goztepe",
+    "datacount": 1,
+    "gene_info": {      
+      "actn3": "AA",
+      "ace": "AA",
+      "ppara": "AA",
+      "ppargc1a": "AA",
+      "nos3": "AA",
+      "hif1a": "AA",
+      "adrb2": "AA",
+      "bdkrb2": "AA",
+      "mct1": "AA",
+      "col1a1": "AA",
+      "col5a1": "AA",
+      "il6": "AA",
+      "bdnf": "AA",
+      "comt": "AA"
+    }
+  },
+  {
+    "team_id": "goztepe",
+    "datacount": 2,
+    "gene_info": {      
+      "actn3": "AA",
+      "ace": "AA",
+      "ppara": "AA",
+      "ppargc1a": "AA",
+      "nos3": "AA",
+      "hif1a": "AA",
+      "adrb2": "AA",
+      "bdkrb2": "AA",
+      "mct1": "AA",
+      "col1a1": "AA",
+      "col5a1": "AA",
+      "il6": "AA",
+      "bdnf": "AA",
+      "comt": "AA"
+    }
+  },
+  {
+    "team_id": "individual",
+    "datacount": 1,
+    "gene_info": {      
+      "actn3": "AA",
+      "ace": "AA",
+      "ppara": "AA",
+      "ppargc1a": "AA",
+      "nos3": "AA",
+      "hif1a": "AA",
+      "adrb2": "AA",
+      "bdkrb2": "AA",
+      "mct1": "AA",
+      "col1a1": "AA",
+      "col5a1": "AA",
+      "il6": "AA",
+      "bdnf": "AA",
+      "comt": "AA"
+    }
+  },
+  {
+    "team_id": "individual",
+    "datacount": 2,
+    "gene_info": {      
+      "actn3": "AA",
+      "ace": "AA",
+      "ppara": "AA",
+      "ppargc1a": "AA",
+      "nos3": "AA",
+      "hif1a": "AA",
+      "adrb2": "AA",
+      "bdkrb2": "AA",
+      "mct1": "AA",
+      "col1a1": "AA",
+      "col5a1": "AA",
+      "il6": "AA",
+      "bdnf": "AA",
+      "comt": "AA"
+    }
+  }
+]
